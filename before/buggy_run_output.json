@@ -1,0 +1,72 @@
+{
+  "embed_model": "nomic-embed-text",
+  "chat_model": "qwen2.5:7b-instruct",
+  "results": [
+    {
+      "frage": "Welche Frist läuft im Fall Bäcker Sonnenschein GmbH als nächstes ab, und was passiert, wenn sie versäumt wird?",
+      "antwort": "Die nächste Frist im Fall Bäcker Sonnenschein GmbH läuft am 2026-08-14 für das Einreichen der Klageerwiderung. Wenn diese Frist versäumt wird, droht ein Versäumnisurteil und die Präklusion des Vortrags zur betriebsbedingten Kündigung nach § 296 ZPO.\n\nVerwendete Quellendateien:\n- 01_fristenuebersicht_baecker_sonnenschein.md\n- 05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+      "quellen": [
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "score": 0.696
+        },
+        {
+          "source": "05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+          "score": 0.651
+        },
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "score": 0.631
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "score": 0.618
+        }
+      ]
+    },
+    {
+      "frage": "Fasse zusammen, worum es im Mandat Familie Keskin geht und was der aktuelle Stand ist.",
+      "antwort": "Im Mandat Familie Keskin geht es um einen Streit zwischen den Mieter Herrn und Frau Keskin (Mandanten) und der Vermieterin Rheinlicht Immobilien GmbH über eine angekündigte Mieterhöhung von 780 € auf 940 €, die mit einer angeblichen energetischen Modernisierung (neue Fenster im Jahr 2025) begründet wurde. Die Kanzlei hat einen Entwurf für ein Schreiben an Rheinlicht Immobilien GmbH erstellt und wartet auf Rückmeldung der Mandanten bis zum 14. August 2026.\n\nZusätzlich droht eine Versäumnisurteil und die Präklusion des Vortrags zur betriebsbedingten Kündigung nach § 296 ZPO, wenn die Klageerwiderungsfrist am 14. August 2026 nicht eingehalten wird. Der Schriftsatzentwurf für eine mögliche Klageerwiderung ist bereits vorliegend und muss noch mit dem Mandanten abgestimmt werden.\n\nDie letzte Kontaktaufnahme mit den Mandanten erfolgte am 29. Juli 2026, bei der die Sozialauswahl bestätigt wurde. Noch offene Rückfragen betreffen die genaue Betriebszugehörigkeit zweier Vergleichsmitarbeiter.\n\nVerwendete Quellendateien:\n- 02_aktennotiz_familie_keskin.md\n- 01_fristenuebersicht_baecker_sonnenschein.md",
+      "quellen": [
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "score": 0.704
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "score": 0.668
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "score": 0.632
+        },
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "score": 0.621
+        }
+      ]
+    },
+    {
+      "frage": "Welches Honorar wurde mit der Elbtal Handwerksbetrieb GmbH vereinbart, und ist das eine Pauschale oder nach RVG?",
+      "antwort": "Die Elbtal Handwerksbetrieb GmbH hat eine Pauschalvergütung von 1.850 € netto für dieses Mandat vereinbart.\n\nQuellendateien: 03_gebuehrenvereinbarung_elbtal_handwerk.md",
+      "quellen": [
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "score": 0.692
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "score": 0.655
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "score": 0.652
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "score": 0.637
+        }
+      ]
+    }
+  ]
+}
