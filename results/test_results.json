@@ -1,0 +1,392 @@
+{
+  "gesamt": 12,
+  "bestanden": 12,
+  "faelle": [
+    {
+      "id": "T01",
+      "kontext_mandat": "Bäcker Sonnenschein GmbH (Kündigungsschutzklage)",
+      "frage": "Welche Frist läuft im Fall Bäcker Sonnenschein GmbH als nächstes ab, und was passiert, wenn sie versäumt wird?",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "mandat": "214/26-K",
+          "score": 0.696
+        },
+        {
+          "source": "05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+          "mandat": "214/26-K",
+          "score": 0.651
+        },
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "mandat": "214/26-K",
+          "score": 0.631
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.612
+        }
+      ],
+      "antwort": "Die nächste Frist in dem Fall Bäcker Sonnenschein GmbH läuft am 2026-08-14 ab. Wenn diese Frist versäumt wird, droht ein Versäumnisurteil und die Präklusion des Vortrags zur betriebsbedingten Kündigung nach § 296 ZPO.\n\nQuellen: \n- 01_fristenuebersicht_baecker_sonnenschein.md #0\n- 01_fristenuebersicht_baecker_sonnenschein.md #1",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T02",
+      "kontext_mandat": "Bäcker Sonnenschein GmbH (Kündigungsschutzklage)",
+      "frage": "Wie ist der aktuelle Stand zur Sozialauswahl, welche Betriebszugehörigkeiten wurden ermittelt?",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "mandat": "214/26-K",
+          "score": 0.648
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.626
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.605
+        },
+        {
+          "source": "05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+          "mandat": "214/26-K",
+          "score": 0.586
+        }
+      ],
+      "antwort": "Der aktuelle Stand zur Sozialauswahl lautet, dass die beiden Vergleichsmitarbeiter für die Sozialauswahl identifiziert wurden. Ihre Betriebszugehörigkeiten betragen 6 Jahre und 9 Jahre jeweils. Beide Mitarbeiter haben ohne Unterhaltspflichten nach den Personalakten gearbeitet.\n\nDie Unterlagen zur Identifizierung dieser Vergleichsmitarbeiter werden bis zum 4. August 2026 per verschlüsseltem Nextcloud-Link nachgereicht.\n\nQuellen:\n- 01_fristenuebersicht_baecker_sonnenschein.md\n- 05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T03",
+      "kontext_mandat": "Familie Keskin (Mietrecht)",
+      "frage": "Fasse zusammen, worum es im Mandat Familie Keskin geht und was der aktuelle Stand ist.",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "mandat": "188/26-M",
+          "score": 0.704
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.668
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "mandat": "188/26-M",
+          "score": 0.632
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.61
+        }
+      ],
+      "antwort": "Im Mandat 188/26-M handelt es sich um einen Streit zwischen der Familie Keskin (Mandant) und Rheinlicht Immobilien GmbH (Vermieterin) bezüglich einer Mieterhöhung. Die Vermieterin hat eine Mieterhöhung von 780 € auf 940 € kalt angekündigt, wobei sie die „energetische Modernisierung\" (neuere Fenster im Jahr 2025) als Grund anführt.\n\nDer aktuelle Stand ist, dass ein Schreiben an Rheinlicht Immobilien GmbH entworfen wird. Die Mandanten werden bis zum 5. August 2026 über den Entwurf informiert und ihre Rückmeldung erwartet.\n\nVerwendete Quellendateien:\n- 02_aktennotiz_familie_keskin.md (Mandat 188/26-M)\n- 04_mandatsvereinbarung_allgemein.md (Allgemeine Mandatsbedingungen, kanzleiweit)",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T04",
+      "kontext_mandat": "Familie Keskin (Mietrecht)",
+      "frage": "Bis wann muss die Kanzlei den Mandanten zurückmelden?",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.745
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.681
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "mandat": "188/26-M",
+          "score": 0.674
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "mandat": "188/26-M",
+          "score": 0.666
+        }
+      ],
+      "antwort": "Die Kanzlei muss den Mandanten bis spätestens dem 5. August 2026 zurückmelden.\n\nQuellen:\n- [02_aktennotiz_familie_keskin.md #2 | Mandat 188/26-M]",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T05",
+      "kontext_mandat": "Familie Keskin (Mietrecht)",
+      "frage": "Ist die entscheidende Frist im Mandat Keskin der 14.08.2026, so wie in dem anderen Fall?",
+      "fangfrage": true,
+      "genutzte_quellen": [
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "mandat": "188/26-M",
+          "score": 0.727
+        },
+        {
+          "source": "02_aktennotiz_familie_keskin.md",
+          "mandat": "188/26-M",
+          "score": 0.667
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.663
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.644
+        }
+      ],
+      "antwort": "Nein, die entscheidende Frist im Mandat Familie Keskin ist der 05.08.2026, nicht der 14.08.2026. Dies wurde in der Aktennotiz vom 2026-07-29 angegeben, wonach die Rückmeldung an die Mandantschaft bis spätestens dem 05.08.2026 zugesagt ist.\n\nVerwendete Quellendateien:\n- 02_aktennotiz_familie_keskin.md (Mandat 188/26-M)",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T06",
+      "kontext_mandat": "Elbtal Handwerksbetrieb GmbH (Vertragsrecht)",
+      "frage": "Welches Honorar wurde mit der Elbtal Handwerksbetrieb GmbH vereinbart, und ist das eine Pauschale oder nach RVG?",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.692
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.655
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.637
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.636
+        }
+      ],
+      "antwort": "Die Elbtal Handwerksbetrieb GmbH hat eine Pauschalvergütung von 1.850 € netto für dieses Mandat vereinbart.\n\nDiese Pauschale umfasst:\n- Prüfung des Vertragsentwurfs (Ist-Stand, vom Mandanten am 2026-07-08 übermittelt)\n- Bis zu zwei Verhandlungsrunden mit dem Großhändler (schriftlich oder per Videobesprechung)\n- Eine finale, verhandlungsfertige Vertragsfassung\n\nDas Honorar ist nicht nach dem Rechtsanwaltsvergütungsgesetz (RVG) abzurechnen, sondern basiert auf der vereinbarten Pauschale.\n\nVerwendete Quellendateien:\n- 03_gebuehrenvereinbarung_elbtal_handwerk.md #0\n- 03_gebuehrenvereinbarung_elbtal_handwerk.md #1",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T07",
+      "kontext_mandat": "Elbtal Handwerksbetrieb GmbH (Vertragsrecht)",
+      "frage": "Wer ist der Sachbearbeiter in diesem Mandat -- ist das RA Dr. Hollmann?",
+      "fangfrage": true,
+      "genutzte_quellen": [
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.635
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.622
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.601
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.6
+        }
+      ],
+      "antwort": "Der Sachbearbeiter in diesem Mandat ist RAin Weidmann (fiktiv). Das Name \"RA Dr. Hollmann\" wird nicht im gegebenen Kontext erwähnt.\n\nQuellendateien:\n- 03_gebuehrenvereinbarung_elbtal_handwerk.md\n- 04_mandatsvereinbarung_allgemein.md",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T08",
+      "kontext_mandat": "Elbtal Handwerksbetrieb GmbH (Vertragsrecht)",
+      "frage": "Wann ist die erste Verhandlungsrunde mit dem Großhändler geplant?",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.712
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.679
+        },
+        {
+          "source": "03_gebuehrenvereinbarung_elbtal_handwerk.md",
+          "mandat": "201/26-V",
+          "score": 0.643
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.605
+        }
+      ],
+      "antwort": "Die erste Verhandlungsrunde mit dem Großhändler ist für die Woche ab 2026-08-03 geplant. Dies wurde in der internen Prüfvermerk vom 2026-07-22 festgelegt.\n\nVerwendete Quellendateien:\n- 03_gebuehrenvereinbarung_elbtal_handwerk.md (Mandat 201/26-V)",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T09",
+      "kontext_mandat": "Bäcker Sonnenschein GmbH (Kündigungsschutzklage)",
+      "frage": "Fasse den Streit um die angekündigte Mieterhöhung in diesem Mandat zusammen.",
+      "fangfrage": true,
+      "genutzte_quellen": [
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.703
+        },
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "mandat": "214/26-K",
+          "score": 0.677
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.631
+        },
+        {
+          "source": "05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+          "mandat": "214/26-K",
+          "score": 0.629
+        }
+      ],
+      "antwort": "nicht in dieser Akte vorhanden\n\nDie Akte bezieht sich ausschließlich auf das Kündigungsschutzrecht und die Klageerwiderung für Bäcker Sonnenschein GmbH, ohne dass es Informationen über einen Streit um Mieterhöhung enthält.",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T10",
+      "kontext_mandat": "kanzleiweit (kein einzelnes Mandat)",
+      "frage": "Welche Verschwiegenheitspflichten gelten für Personen, die im Auftrag der Kanzlei technische Systeme betreuen?",
+      "fangfrage": false,
+      "genutzte_quellen": [
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.682
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.68
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.662
+        }
+      ],
+      "antwort": "Die Kanzlei ist zur Verschwiegenheit nach § 43a Abs. 2 BRAO verpflichtet auch für Personen, die im Auftrag der Kanzlei technische Systeme betreuen (§ 203 StGB) - hierzu bestehen gesonderte Verpflichtungserklärungen mit allen mitwirkenden externen Dienstleistern.\n\nVerwendete Quellendateien:\n- 04_mandatsvereinbarung_allgemein.md",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T11",
+      "kontext_mandat": "kanzleiweit (kein einzelnes Mandat)",
+      "frage": "Wie hoch ist die vereinbarte Pauschale im Mandat Elbtal Handwerk?",
+      "fangfrage": true,
+      "genutzte_quellen": [
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.665
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.615
+        },
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.588
+        }
+      ],
+      "antwort": "nicht in dieser Akte vorhanden\n\nDie verwendeten Quellendateien sind:\n- 04_mandatsvereinbarung_allgemein.md #0\n- 04_mandatsvereinbarung_allgemein.md #1\n- 00_hinweis.md #0",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    },
+    {
+      "id": "T12",
+      "kontext_mandat": "Bäcker Sonnenschein GmbH (Kündigungsschutzklage)",
+      "frage": "Welche Pauschale wurde in diesem Mandat vereinbart?",
+      "fangfrage": true,
+      "genutzte_quellen": [
+        {
+          "source": "04_mandatsvereinbarung_allgemein.md",
+          "mandat": null,
+          "score": 0.749
+        },
+        {
+          "source": "01_fristenuebersicht_baecker_sonnenschein.md",
+          "mandat": "214/26-K",
+          "score": 0.691
+        },
+        {
+          "source": "00_hinweis.md",
+          "mandat": null,
+          "score": 0.655
+        },
+        {
+          "source": "05_aktennotiz_baecker_sonnenschein_folgetermin.md",
+          "mandat": "214/26-K",
+          "score": 0.634
+        }
+      ],
+      "antwort": "nicht in dieser Akte vorhanden\n\nDie angegebenen Quellen beziehen sich auf die Fristen und den aktuellen Stand des Mandats, aber sie weisen keine spezifische Pauschale für dieses Mandat vor.",
+      "bestanden": true,
+      "begruendung": [
+        "ok"
+      ]
+    }
+  ]
+}
